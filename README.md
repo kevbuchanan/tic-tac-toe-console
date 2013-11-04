@@ -1,6 +1,7 @@
 # Tic Tac Toe
 
 A command line Tic Tac Toe game in Clojure.
+This uses the game logic from https://github.com/kevinbuch/tic-tac-toe-clojure.
 
 ## Starting the game
 
